@@ -2,10 +2,10 @@
 
 A C-language toolbox to simplify complex command-line tasks for tools like yt-dlp and ffmpeg.
 
-Toolbox provides simplified commands and automation scripts to make using powerful CLI tools like `yt-dlp` and `ffmpeg` as easy as spreading butter.
+MediaCurl provides simplified commands and automation scripts to make using powerful CLI tools like `yt-dlp` and `ffmpeg` as easy as spreading butter.
 Eliminating the need of memorizing long, intricate command-line arguments for repetitive tasks.
 
-## Toolbox PRESENTS
+## MediaCurl PRESENTS
     * Wraps complex `ffmpeg`/`yt-dlp` processes into simple commands.
     * Automates repetitive tasks into simple batch processing tasks.
     * Lightweight & Fast - written in C for minimal overhead.
